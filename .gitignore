@@ -1,0 +1,9 @@
+# Configuration locale NetBeans
+/nbproject/private/
+
+# Dépendances Node.js
+/node_modules/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
